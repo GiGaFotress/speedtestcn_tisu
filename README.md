@@ -1,2 +1,3 @@
 speedtestcn提速守护
 padavan用
+建议使用lock防止多次运行
